@@ -1,0 +1,6 @@
+{
+  "name": "MindFlow AI",
+  "description": "Interactive mind mapping and visual brainstorming workspace powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
